@@ -3,7 +3,7 @@
 # Introduction
 Today banks are one of the most important units of the public. Most banks used standard
 queuing models. It is very useful to avoid standing in a queue for a long time or in a wrong line
-and to give tickets to all customers. Bank is an example of unlimited queue length [1].
+and to give tickets to all customers. Bank is an example of unlimited queue length.
 Queuing is used to generate a sequence of customers' arrival time and to choose randomly
 between three different services: open an account, transaction, and balance, with different period
 of time for each service.
