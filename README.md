@@ -36,12 +36,14 @@ To conclude, we built a simplistic queuing system with only one server, where ar
 1. Md Farhan Nasir - (CSE-01306125)
 2. Tashfia Haque - (CSE-01306144)
 3. Farhadul Islam - (CSE-01306128)
-4. S.M Mohiuddin -
+4. S.M Mohiuddin - (CSE-01306094)
 
 # Contact
 1. farhannasir625@gmail.com
 2. tashfiachy96@gmail.com
 3. farhadmoonstar@gmail.com
+4. mohiuddin.mohive@gmail.com
+
 
 # Quick Link
 1. https://pythonhosted.org/SimPy/Tutorials/TheBank.html
