@@ -35,12 +35,13 @@ To conclude, we built a simplistic queuing system with only one server, where ar
 # Team Ratio
 1. Md Farhan Nasir - (CSE-01306125)
 2. Tashfia Haque - (CSE-01306144)
-3. S.M Mohiuddin
-4. Farhadul Islam
+3. Farhadul Islam - (CSE-01306128)
+4. S.M Mohiuddin -
 
 # Contact
 1. farhannasir625@gmail.com
 2. tashfiachy96@gmail.com
+3. farhadmoonstar@gmail.com
 
 # Quick Link
 1. https://pythonhosted.org/SimPy/Tutorials/TheBank.html
