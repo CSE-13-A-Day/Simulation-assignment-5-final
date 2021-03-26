@@ -53,6 +53,7 @@ To conclude, we built a simplistic queuing system with only one server, where ar
 3. Scipy
 
 # Result
-![Output_1](https://user-images.githubusercontent.com/41537584/112215889-18b6c880-8c4b-11eb-909c-5340c82c95eb.png)
-![Output_2](https://user-images.githubusercontent.com/41537584/112215918-20766d00-8c4b-11eb-8a24-124eaa2b940e.png)
+![Output_1](https://user-images.githubusercontent.com/41537584/112633786-fea40280-8e63-11eb-9ad5-2054f4383d35.png)
+![output_2](https://user-images.githubusercontent.com/41537584/112633806-0368b680-8e64-11eb-981a-ffad544a49b6.png)
+
 
